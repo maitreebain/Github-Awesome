@@ -43,8 +43,7 @@
 * git status (optional)
 4. git add README.md 
 * git status (optional)
-5. git push
-6. git commit -m "comment"
-
+5. git commit -m "comment"
+6. git push
 
 
