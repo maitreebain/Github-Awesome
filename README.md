@@ -20,3 +20,19 @@
 1.  :wd 
 2. esc - command mode 
 3. i 
+
+
+----
+
+## How to Repo to Github:
+
+1. cd ~/Name-of-Folder
+2. touch README.md 
+* git status (optional)
+3. git commit -m "comment"
+4. copy git remote line and paste on terminal
+5. git push
+6. git push --set-upstream origin master
+7. open README.md
+
+
