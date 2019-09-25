@@ -35,4 +35,16 @@
 6. git push --set-upstream origin master
 7. open README.md
 
+## How to Update File info to Github Repo:
+
+1. cd ~/Documents
+2. ls
+3. git init
+* git status (optional)
+4. git add README.md 
+* git status (optional)
+5. git push
+6. git commit -m "comment"
+
+
 
