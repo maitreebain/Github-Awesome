@@ -24,11 +24,18 @@
 
 ----
 
-## How to Repo to Github:
+## How to add local Repo to Github:
 
 1. cd ~/Name-of-Folder
-2. touch README.md 
+2. mkdir Name-of-Folder
+3. cd Name-of-Folder
+*ls
+
+
+
+touch/echo README.md 
 * git status (optional)
+3. git add 
 3. git commit -m "comment"
 4. copy git remote line and paste on terminal
 5. git push
