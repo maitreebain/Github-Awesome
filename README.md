@@ -29,28 +29,25 @@
 1. cd ~/Name-of-Folder
 2. mkdir Name-of-Folder
 3. cd Name-of-Folder
-*ls
-
-
-
-touch/echo README.md 
+4.touch/echo README.md 
+* ls or open README.md
+5. git init
 * git status (optional)
-3. git add 
-3. git commit -m "comment"
-4. copy git remote line and paste on terminal
-5. git push
-6. git push --set-upstream origin master
-7. open README.md
+6. git add 
+7. git commit -m "comment"
+8. copy git remote line and paste on terminal
+9. git push -u origin master
 
 ## How to Update File info to Github Repo:
 
 1. cd ~/Documents
 2. ls
-3. git init
+(git init has been initialized already)
 * git status (optional)
-4. git add README.md 
+3. git add README.md 
 * git status (optional)
-5. git commit -m "comment"
-6. git push
+4. git commit -m "comment"
+5. git push 
+(no need to use push u- for update)
 
 
